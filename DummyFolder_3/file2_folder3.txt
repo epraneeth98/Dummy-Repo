@@ -1,0 +1,1 @@
+I'm a line in file 2 in folder3
